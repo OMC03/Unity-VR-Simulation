@@ -1,20 +1,18 @@
 # 2D Platformer Game Assets
 ### Description
-This is a repository of my first game that I made, where you can play in 5 different platformer levels with various sceneries in each one
+This game utilizes Unity's XR Interaction toolkit plugin to allow for the creation of virtual reality games on Meta Quest and Oculus VR Headsets. Below are some screenshots of the various hand movements I implemented.
 
-It uses many different functions of Unity to create an immersive experience, such as physics, basic enemy waypoint following, and animations for the player
-
-This project was created using Unity Version 2022.3.6f1
+This project was created using Unity Version 6000.0.65f1
 
 ## Gameplay
 # Hand Waving
-![2D Platformer Gameplay](Screenshots/2D_Platformer_Game_lvl1.png)
+![VR Sim Gameplay](Screenshots/Hand-Wave.png)
 
 # Hand Pinch with Sword
-![2D Platformer Gameplay](Screenshots/2D_Platformer_Game_lvl2.png)
+![VR Sim Gameplay](Screenshots/Hand-Pinch-Sword.png)
 
 # Hand Fist with Sword
-![2D Platformer Gameplay](Screenshots/2D_Platformer_Game_lvl3.gif)
+![VR Sim Gameplay](Screenshots/Hand-Fist-Sword.png)
 
 
 
